@@ -101,6 +101,7 @@ export const projects = [
     img: "green.jpg",
     iconLists: ["/ard.svg", "/cad.svg"],
     link: "/ui.apple.com",
+    //comments
   },
 ];
 
