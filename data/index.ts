@@ -90,7 +90,7 @@ export const projects = [
     id: 3,
     title: "Cafe Site Web Project",
     des: "Developed a fully responsive and user-friendly website for a café, focusing on creating a seamless digital experience that captures the café’s warmth and charm. Key features include interactive menu browsing, online ordering, reservation management, and a gallery showcasing the ambiance. Emphasized an intuitive design, smooth navigation, and functionality to enhance user engagement and reflect the brand's essence.",
-    img: "/cafe.png",
+    img: "/p2.svg",
     iconLists: ["/html.svg", "/css.svg", "/js.svg", "/php.svg", "/sql.svg"],
     link: "/ui.aiimg.com",
   },
