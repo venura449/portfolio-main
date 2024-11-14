@@ -58,7 +58,8 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Venura, a Full-stack Developer based in Croatia.
+            Hi! I&apos;m Venura,a Full-stack Developer fascinated by creating
+            end-to-end applications.
           </p>
 
           <a href="https://github.com/venura449">
